@@ -1,6 +1,5 @@
 # Cafe Mobile App (CTEC3911 Assignment)
 
-Login Page
 ![Login Page](https://i.ibb.co/TLNGW7d/Login-Page.png)
 
 ## ✨ Features
